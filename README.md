@@ -1,2 +1,2 @@
-#przejsciowa strona 
+# przejsciowa strona 
 update w przyszlosci
